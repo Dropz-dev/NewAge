@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.NewAge" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>
+
+

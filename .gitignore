@@ -1,0 +1,25 @@
+# Android/Gradle
+.gradle/
+build/
+/local.properties
+/.idea/
+*.iml
+
+# APK/AAB
+*.apk
+*.aab
+
+# NDK/External build
+.cxx/
+.externalNativeBuild/
+
+# Logs
+*.log
+
+# Lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+
+

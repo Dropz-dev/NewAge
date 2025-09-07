@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">NewAge</string>
+    <string name="title_workout">Workout</string>
+    <string name="title_progress">Progress</string>
+    <string name="title_exercises">Exercises</string>
+    <string name="title_planning">Planning</string>
 </resources>
 
 
